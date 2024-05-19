@@ -15,7 +15,7 @@
     <a href="https://github.com/SleepyTrousers/EnderIO-Rewrite/wiki"><strong>Browse the Wiki »</strong></a>
     <br />
     <br />
-    <a href="https://www.curseforge.com/minecraft/mc-mods/ender-io">Curseforge</a>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/ender-io">CurseForge</a>
     ·
     <a href="https://modrinth.com/mod/enderio">Modrinth</a>
     ·
@@ -33,7 +33,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">About the Project</a>
     </li>
       <li>
       <a href="#looking-for-a-server">Looking for a Server?</a>
@@ -60,15 +60,15 @@
 
 Ender IO is a full-featured tech mod. It has armor, tools, weapons, machines, conduits, inventory management, mobs, etc.
 
-Ender IO has been rewritten from the ground-up to support the latest version of Minecraft.
-Some features may be missing or work differently, however we are working to re-implement everything we know and love about the original.
+Ender IO has been rewritten from the ground up to support the latest version of Minecraft.
+Some features may be missing or work differently. However, we are working to re-implement everything we know and love about the original.
 
 <!-- PARTNER BANNER -->
 ## Looking for a Server?
 
 [![Akliz Official Partner](doc/img/akliz_banner_enderio.png)](https://www.akliz.net/enderio)
 
-The Ender IO Team are official Akliz partners! Akliz provides high-performance game hosting for games like Minecraft, Valheim, Satisfactory, ARK and more! Use our [coupon code](https://www.akliz.net/enderio) for 20% off your first month!
+The Ender IO Team are official Akliz partners! Akliz provides high-performance game hosting for games like Minecraft, Valheim, Satisfactory, ARK, and more! Use our [coupon code](https://www.akliz.net/enderio) for 20% off your first month!
 
 ### Supported Minecraft Versions
 
@@ -78,10 +78,10 @@ The Ender IO Team are official Akliz partners! Akliz provides high-performance g
 | 1.20.1            | 6.x                 | ✳️             |
 | 1.20.6            | 7.x                 | 🚧             |
 
-- ❌ - Not Supported; no bug fixes or new features.
-- 🚧 - Work in Progress; not ready for release.
-- ✳️ - Long Term Support; receives changes through backports only.
-- ✅ - In Support; the active version, receiving all bugfixes and features directly.
+- ❌ -- **Not Supported**; no bug fixes or new features.
+- 🚧 -- **Work in Progress**; not ready for release.
+- ✳️ -- **Long Term Support**; receives changes through backports only.
+- ✅ -- **In Support**; the active version, receiving all bugfixes and features directly.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -92,7 +92,7 @@ Download the latest JAR file from GitHub releases or from [CurseForge](https://w
 
 ### For Mod Developers
 
-EnderIO is available via our maven.
+EnderIO is available via our Maven.
 Update your `build.gradle` to contain the following:
 
 ```groovy
@@ -108,7 +108,7 @@ dependencies {
     runtimeOnly fg.deobf("com.enderio:EnderIO:<VERSION>")
 }
 ```
-If you need any feature in the api, contact us.
+If you need any feature in the API, contact us.
 
 <!-- CONTRIBUTING -->
 ## Contributing

@@ -2,7 +2,7 @@ pluginManagement {
     repositories {
         gradlePluginPortal()
         maven("https://maven.parchmentmc.org")
-        maven("https://maven.firstdarkdev.xyz/releases")
+        maven("https://maven.firstdark.dev/releases")
         maven("https://maven.neoforged.net/releases")
     }
 }

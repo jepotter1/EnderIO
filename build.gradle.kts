@@ -9,7 +9,7 @@ plugins {
     id("maven-publish")
     id("com.modrinth.minotaur") version "2.+"
     id("net.neoforged.gradle.userdev") version "7.0.109"
-    id("com.hypherionmc.modutils.modpublisher") version "2.+"
+    id("com.hypherionmc.modutils.modpublisher") version "2.1.2"
 }
 
 val mod_id: String by project
